@@ -1,0 +1,9 @@
+Quality:
+--- RECORDSEPARATOR ---
+High
+--- RECORDSEPARATOR ---
+Medium
+--- RECORDSEPARATOR ---
+Low
+--- RECORDSEPARATOR ---
+Click here to return to the menu
