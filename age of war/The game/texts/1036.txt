@@ -1,7 +1,0 @@
-Victory!
---- RECORDSEPARATOR ---
-Congratulations, you won the war and destroyed your ennemy.
---- RECORDSEPARATOR ---
-Play again?
---- RECORDSEPARATOR ---
-Play more games at www.maxgames.com
